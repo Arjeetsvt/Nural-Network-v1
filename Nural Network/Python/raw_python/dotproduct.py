@@ -10,4 +10,3 @@ biases = [2,3,0.5]
 
 outputs = np.dot(weights, inputs) + biases
 print(outputs)
-#can't figure out the answer to this yet
